@@ -1,1 +1,5 @@
 使用了JDK8的default方法
+
+启动项目A;访问地址http://localhost:8089/A 报错
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.demo.mapper.UserMapper.doSomething
+
